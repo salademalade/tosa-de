@@ -4,9 +4,9 @@ Da ToS:A auf Discord gespielt wird, gibt es außer zusätzlichen Rollen und Modi
 
 Um Tode durch Trennungen möglichst zu vermeiden, darf der Moderator versuchen, einen Ersatzspieler zu finden, wenn ein Spieler sich nicht meldet. Wenn das dem erfolgt, nimmt der Ersatzspieler die Rolle und Position des eigentlichen Spielers und der Moderator teilt alle Informationen, was der eigentliche Spieler hatte, dem Ersatzspieler mit. Wenn ein Spieler sich nicht meldet und kein Ersatzspieler gefunden wird, stirbt der Spieler durch eine Trennung.
 
-## Whisper-Bot
+## WhisperBot
 
-Schließlich wird bei ToS:A das Whisper Bot benutzt, um bestimmte Funktionen zu verwalten, die von Moderatoren schwer verwaltet werden können, wie das Flüstern, Abstimmen und andere Rollen-spezifische Handlungen. Spieler können im Spiel folgende Befehle verwenden:
+Schließlich wird bei ToS:A das WhisperBot benutzt, um bestimmte Funktionen zu verwalten, die von Moderatoren schwer verwaltet werden können, wie das Flüstern, Abstimmen und andere Rollen-spezifische Handlungen. Spieler können im Spiel folgende Befehle verwenden:
 
 `/whisper <Name/Position des Spielers> <Nachricht> `- Kann tagsüber verwendet werden, um an einen anderen Spieler zu flüstern.
 
@@ -14,6 +14,6 @@ Schließlich wird bei ToS:A das Whisper Bot benutzt, um bestimmte Funktionen zu 
 
 `/guilty`, `/innocent` und `/abstain` - Kann in der Anklagephase von lebenden Spielern verwendet werden, um mit schuldig, unschuldig oder Enthaltung abzustimmen.
 
-`/jailcell <Nachricht>` - Kann nachts von dem [**Wärter**](./waerter.md) oder verhafteten Spieler verwendet werden, um miteinander zu kommunizieren. (**Der Befehl existiert nicht mehr. Stattdessen kann per Direktnachricht zwischen [Wärter](./waerter.md) und dem verhafteten Spieler kommuniziert werden.**)
+`/jailcell <Nachricht>` - Kann nachts von dem [**Wärter**](./waerter.md) oder verhafteten Spieler verwendet werden, um miteinander zu kommunizieren. (**Der Befehl existiert nicht mehr. Stattdessen kann per Direktnachricht an WhisperBot zwischen [Wärter](./waerter.md) und dem verhafteten Spieler kommuniziert werden.**)
 
 `/listplayers` - Kann jederzeit im Spiel verwendet werden, um die Spielerliste abzurufen.
