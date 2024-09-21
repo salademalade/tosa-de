@@ -3,6 +3,7 @@
 - [Town of Salem: Anticipation - deutsche Übersetzung](./einleitung.md)
 - [Grundlagen des Spiels]()
   - [Abweichungen von Town of Salem](./abweichungen.md)
+  - [Spielphasen](./spielphasen.md)
 - [Rollen]()
   - [Dorf](./dorf.md)
     - [Dorf Macht]()
